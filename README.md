@@ -30,8 +30,6 @@
 - Creating clean and intuitive UIs
 - Growing as a future developer
 
----
-
 ## Featured Projects  
 
 <table>
