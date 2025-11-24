@@ -1,34 +1,29 @@
-<div style="display: flex; align-items: center; gap: 20px;">
+<td align="left">
 
-  <div>
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAk8AAAGdCAYAAAAL2ZfXAAAAAX..." width="200">
-  </div>
+  <h1>🦋 Maria Alane</h1>
+  <p>Full-Stack Developer in progress</p>
 
-  <div>
-    <h1>🦋 Maria Alane</h1>
-    <p>Full-Stack Developer in progress</p>
+  <p>
+    • Student of Analysis and Systems Development – 4th Period<br>
+    • Passionate about Full-Stack Development, Web & Mobile<br>
+  </p>
 
-    <p>
-      • Student of Analysis and Systems Development – 4th Period<br>
-      • Passionate about Full-Stack Development, Web & Mobile<br>
-    </p>
+  <h3>🌐 Connect with me</h3>
+  <p>
+    • LinkedIn: seu-link-aqui<br>
+    • GitHub: seu-username<br>
+    • Instagram: seu-@<br>
+    • Email: <strong>maria.alane404dev@gmail.com</strong>
+  </p>
 
-    <h3>🌐 Connect with me</h3>
-    <p>
-      • LinkedIn: seu-link-aqui<br>
-      • GitHub: seu-username<br>
-      • Instagram: seu-@<br>
-      • Email: <strong>maria.alane404dev@gmail.com</strong>
-    </p>
+  <p>
+    <img src="https://media.giphy.com/media/l3vRnkr0IMAwX2lKS/giphy.gif" width="60">
+    <img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif" width="60">
+    <img src="https://media1.tenor.com/m/I80F0frtreAAAAAd/pixel-kesho-pixel.gif" width="60">
+  </p>
 
-    <p>
-      <img src="https://media.giphy.com/media/l3vRnkr0IMAwX2lKS/giphy.gif" width="60">
-      <img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif" width="60">
-      <img src="https://media1.tenor.com/m/I80F0frtreAAAAAd/pixel-kesho-pixel.gif" width="60">
-    </p>
-  </div>
+</td>
 
-</div>
 
 ---
 
