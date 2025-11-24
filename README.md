@@ -1,8 +1,7 @@
 <table>
 <tr>
 <td valign="top" align="top">
-  <img src=alt="image" src="https://github.com/user-attachments/assets/f2a3b4ba-d68b-4c7d-bdc7-5ec9a7d87e03" />
-/>
+  <img src="https://github.com/user-attachments/assets/f2a3b4ba-d68b-4c7d-bdc7-5ec9a7d87e03" alt="Shinobu Pixel Art" width="150" />
 </td>
 <td valign="top">
 
@@ -24,6 +23,7 @@
 </tr>
 </table>
 
+---
 
 ## Languages & Tools  
 <p>
