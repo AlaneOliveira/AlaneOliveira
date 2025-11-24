@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td valign="top" align="top">
- ![Shinobu](https://raw.githubusercontent.com/AlaneOliveira/AlaneOliveira/main/shinobuimagem.gif)
+ <img src="https://raw.githubusercontent.com/AlaneOliveira/AlaneOliveira/main/shinobuimagem.gif" width="200" alt="Shinobu GIF" />
 </td>
 <td valign="top">
 
