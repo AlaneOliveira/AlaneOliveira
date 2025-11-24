@@ -1,51 +1,36 @@
-<p align="center">
-  <img src="https://i.ibb.co/7y0j4mB/banne-purple-butterfly.png" width="100%" />
-</p>
+<table>
+  <tr>
+    <td width="40%">
+      <img src="https://media1.tenor.com/m/2pAdQmXSApAAAAAC/shinobu-kochou-demon-slayer.gif" width="100%">
+    </td>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vRnkr0IMAwX2lKS/giphy.gif" width="90" />
-  <img src="https://media1.tenor.com/m/I80F0frtreAAAAAd/pixel-kesho-pixel.gif" width="150" />
-  <img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif" width="90" />
-</p>
+    <td width="60%" align="left">
+      <h1>🦋 Maria Alane</h1>
+      <p>Full-Stack Developer in progress</p>
 
-<h1 align="center">🦋 ✨ <strong>Maria Alane</strong> ✨ 🦋</h1>
+      <h3>About Me</h3>
+      <p>
+        • Student of Analysis and Systems Development – 4th Period<br>
+        • Passionate about Full-Stack Development, Web & Mobile
+      </p>
 
-<p align="center">
-  Full-Stack Developer in progress  
-</p>
+      <h3>Languages & Tools</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,cpp,git,github,figma&theme=light">
+      </p>
 
----
+      <h3>Connect With Me</h3>
+      <p>
+        • LinkedIn: seu-link-aqui<br>
+        • GitHub: seu-username<br>
+        • Instagram: seu-@<br>
+        • Email: <strong>maria.alane404dev@gmail.com</strong>
+      </p>
 
-## 👩‍💻 About Me  
-- 🎓 Student of **Analysis and Systems Development – 4th Period**  
-- 💜 Passionate about **Full-Stack Development**, Web & Mobile  
-
----
-
-## 🔧 Languages & Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,cpp,git,github,figma&theme=light" />
-</p>
-
----
-
-## 🚀 What I'm Focusing On  
-- Advancing in **mobile development (React Native)**  
-- Creating clean and intuitive UIs  
-- Growing as a **future full-stack developer**
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maria-alane&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-alane&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me  
-🔗 **LinkedIn:** seu-link-aqui  
-💜 **GitHub:** seu-username  
-📸 **Instagram:** seu-@  
-📧 **Ema**
+      <p>
+        <img src="https://media.giphy.com/media/l3vRnkr0IMAwX2lKS/giphy.gif" width="70">
+        <img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif" width="70">
+      </p>
+    </td>
+  </tr>
+</table>
