@@ -1,22 +1,25 @@
-<div align="center">
-  <img src="https://i.imgur.com/3Qy9H5w.gif" align="left" width="160" style="margin-right: 20px; border-radius: 10px;"/>
-  
-  <h1>✨ Maria Alane ✨</h1>
-  <h3>Full-Stack Student | Web & Mobile Enthusiast</h3>
-</div>
+<p float="left">
+  <img src="https://i.pinimg.com/originals/aa/ff/11/aaff115c4b8f8c1f8e7f5b4e4fdd5f38.png" width="150" />
+  <img src="https://media.giphy.com/media/l3vRnkr0IMAwX2lKS/giphy.gif" width="60" />
+</p>
 
-<br><br>
+<h1>🦋 Maria Alane</h1>
+<p>Full-Stack Developer in progress</p>
 
-## 👩‍💻 About Me
-- 🎓 Student of Analysis and Systems Development – 4th Period  
-- 💜 Passionate about Full-Stack Development, Web & Mobile  
-- 🌙 Obsessed with aesthetic design + anime (yes, Shinobu supremacy)  
-- 🚀 Currently learning **React Native** & **RESTful APIs**  
+<p>
+• Student of Analysis and Systems Development – 4th Period<br>
+• Passionate about Full-Stack Development, Web & Mobile
+</p>
 
----
+<h3>🌐 Connect with me</h3>
+<p>
+• LinkedIn: <a href="https://www.linkedin.com/in/seu-link-aqui/">seu-link-aqui</a><br>
+• GitHub: <a href="https://github.com/seu-username">seu-username</a><br>
+• Instagram: <a href="https://www.instagram.com/seu-@">seu-@</a><br>
+• Email: <strong>maria.alane404dev@gmail.com</strong>
+</p>
 
 
----
 
 ## 🔧 Languages & Tools  
 <p>
