@@ -16,8 +16,6 @@
 <h3>Connect with me</h3>
 <p>
 • LinkedIn: <a href="https://www.linkedin.com/in/seu-link-aqui/">seu-link-aqui</a><br>
-• GitHub: <a href="https://github.com/seu-username">seu-username</a><br>
-• Instagram: <a href="https://www.instagram.com/seu-@">seu-@</a><br>
 • Email: <strong>maria.alane404dev@gmail.com</strong>
 </p>
 
