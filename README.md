@@ -1,9 +1,9 @@
 <table>
 <tr>
-<td>
+<td width="160" valign="top">
 <img src="https://i.imgur.com/7yZ8F0r.png" width="150">
 </td>
-<td>
+<td valign="top">
 
 <h1>🦋 Maria Alane</h1>
 <p>Full-Stack Developer in progress</p>
