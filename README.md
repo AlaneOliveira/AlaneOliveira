@@ -33,9 +33,9 @@
 </p>
 
 ## What I'm Focusing On  
-- Advancing in mobile development (React Native)  
-- Creating clean and intuitive UIs  
-- Growing as a future full-stack developer
+- Advancing in full-stack development
+- Creating clean and intuitive UIs
+- Growing as a future developer
 
 ---
 
@@ -49,9 +49,9 @@
       <a href="https://github.com/AlaneOliveira/UniMove.git">Repository</a>
     </td>
     <td>
-      Project 2<br>
-      Description of your project here.<br>
-      <a href="#">Repository</a>
+      sistema-clinica<br>
+      Um sistema de clinica onde você pode visualizar os pacientes dos médicos.<br>
+      <a href="https://github.com/AlaneOliveira/sistema-clinica.git">Repository</a>
     </td>
     <td>
       Project 3<br>
