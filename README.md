@@ -1,7 +1,9 @@
 <table>
 <tr>
 <td valign="top" align="top">
- <img src="https://raw.githubusercontent.com/AlaneOliveira/AlaneOliveira/main/shinobuimagem.gif" width="200" alt="Shinobu GIF" />
+ <img src="https://raw.githubusercontent.com/AlaneOliveira/AlaneOliveira/main/shinobuimagem.gif" width="200" 
+     alt="Shinobu GIF" 
+     style="display:block;" alt="Shinobu GIF" />
 </td>
 <td valign="top">
 
