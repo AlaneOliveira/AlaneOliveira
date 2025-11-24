@@ -2,8 +2,6 @@
   <img src="https://i.ibb.co/7y0j4mB/banne-purple-butterfly.png" width="100%" />
 </p>
 
----
-
 <p align="center">
   <img src="https://i.gifer.com/origin/36/36e9a34afea9cf6343bd6f0ca6c584bd.gif" width="90" />
   <img src="https://media1.tenor.com/m/I80F0frtreAAAAAd/pixel-kesho-pixel.gif" width="150" />
