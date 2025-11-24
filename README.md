@@ -1,5 +1,9 @@
 <table>
   <tr>
+    <td align="left" width="120">
+      <img src="https://media1.tenor.com/m/I80F0frtreAAAAAd/pixel-kesho-pixel.gif" width="120" />
+    </td>
+
     <td>
       <h1 align="left">🦋 Hello! I'm <strong>Maria Alane</strong> 🦋</h1>
       <p align="left">
@@ -7,11 +11,9 @@
         Inspired by <strong>Shinobu Kocho</strong>’s calm & sharp style  
       </p>
     </td>
-    <td align="right">
-      <img src="https://i.pinimg.com/originals/7b/8b/aa/7b8baaf8b6466eadba61cb5b2b511c56.gif" width="250" />
-    </td>
   </tr>
 </table>
+
 
 ---
 
@@ -33,7 +35,7 @@
 
 ---
 
-## 📊 GitHub Stats (Tema Roxo)
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MariaAlane&show_icons=true&theme=purple" />
@@ -44,7 +46,7 @@
 
 ## 📁 Featured Projects
 
-### 🦋 **Shinobu UI – Web Design Inspired Project**
+### 🦋 **Web Design Inspired Project**
 Interface lilás suave inspirada em paletas de borboletas.  
 🔗 *Link do repositório*
 
@@ -80,7 +82,6 @@ Jogos simples para fortalecer fundamentos.
 
 ---
 
-<!-- GIF final Shinobu aesthetic -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/39/0b/5a/390b5ad468bea81e1c3fd5f364447b6e.gif" width="250"/>
 </p>
