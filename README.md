@@ -44,13 +44,13 @@
 <table>
   <tr>
     <td>
-      <h4>UniMove</h4>h4><br>
-      Aplicativo mobile de carona universitária.<br>
+      <h4>UniMove</h4><br>
+      - Aplicativo mobile de carona universitária.<br>
       <a href="https://github.com/AlaneOliveira/UniMove.git">Repository</a>
     </td>
     <td>
-      sistema-clinica<br>
-      Página web de um sistema de clínica.<br>
+      <h4>Sistema de cínica</h4><br>
+      - Página web de um sistema de clínica.<br>
       <a href="https://github.com/AlaneOliveira/sistema-clinica.git">Repository</a>
     </td>
     <td>
