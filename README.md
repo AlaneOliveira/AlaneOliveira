@@ -5,7 +5,7 @@
 </td>
 <td valign="top">
 
-<h1>🦋 Maria Alane</h1>
+<h1>Maria Alane</h1>
 <p>Full-Stack Developer in progress</p>
 
 <p>
@@ -13,7 +13,7 @@
 • Passionate about Full-Stack Development, Web & Mobile
 </p>
 
-<h3>🌐 Connect with me</h3>
+<h3>Connect with me</h3>
 <p>
 • LinkedIn: <a href="https://www.linkedin.com/in/seu-link-aqui/">seu-link-aqui</a><br>
 • GitHub: <a href="https://github.com/seu-username">seu-username</a><br>
@@ -27,45 +27,45 @@
 
 ---
 
-## 🔧 Languages & Tools  
+## Languages & Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,cpp,git,github,figma&theme=light" />
 </p>
 
 ---
 
-## 🚀 What I'm Focusing On  
-- Advancing in **mobile development (React Native)**  
+## What I'm Focusing On  
+- Advancing in mobile development (React Native)  
 - Creating clean and intuitive UIs  
-- Growing as a **future full-stack developer**
+- Growing as a future full-stack developer
 
 ---
 
-## 📁 Featured Projects  
+## Featured Projects  
 
 <table>
   <tr>
     <td>
-      🌸 <strong>Project 1</strong><br>
+      Project 1<br>
       Description of your project here.<br>
-      <a href="#">🔗 Repository</a>
+      <a href="#">Repository</a>
     </td>
     <td>
-      🦋 <strong>Project 2</strong><br>
+      Project 2<br>
       Description of your project here.<br>
-      <a href="#">🔗 Repository</a>
+      <a href="#">Repository</a>
     </td>
     <td>
-      💜 <strong>Project 3</strong><br>
+      Project 3<br>
       Description of your project here.<br>
-      <a href="#">🔗 Repository</a>
+      <a href="#">Repository</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=maria-alane&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-alane&layout=compact&theme=tokyonight" />
