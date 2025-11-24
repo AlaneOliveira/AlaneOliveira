@@ -1,13 +1,17 @@
-<!-- Banner com GIF da Shinobu -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/7b/8b/aa/7b8baaf8b6466eadba61cb5b2b511c56.gif" width="500" />
-</p>
-
-<h1 align="center" style="color:#c79cf3;">🦋 Hello! I'm <strong>Maria Alane</strong> 🦋</h1>
-
-<p align="center">  
-  💜 Full-Stack Developer in progress • Inspired by Shinobu Kocho’s calm & sharp style  
-</p>
+<table>
+  <tr>
+    <td>
+      <h1 align="left">🦋 Hello! I'm <strong>Maria Alane</strong> 🦋</h1>
+      <p align="left">
+        💜 Full-Stack Developer in progress <br>
+        Inspired by <strong>Shinobu Kocho</strong>’s calm & sharp style  
+      </p>
+    </td>
+    <td align="right">
+      <img src="https://i.pinimg.com/originals/7b/8b/aa/7b8baaf8b6466eadba61cb5b2b511c56.gif" width="250" />
+    </td>
+  </tr>
+</table>
 
 ---
 
