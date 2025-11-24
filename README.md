@@ -46,7 +46,7 @@
     <td>
       UniMove<br>
       Criar uma plataforma onde estudantes universitários possam oferecer ou solicitar caronas de forma segura, prática e econômica, dentro ou entre campi universitários.<br>
-      <a href="[#](https://github.com/AlaneOliveira/UniMove.git)">Repository</a>
+      <a href="https://github.com/AlaneOliveira/UniMove.git">Repository</a>
     </td>
     <td>
       Project 2<br>
