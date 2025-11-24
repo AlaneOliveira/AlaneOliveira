@@ -15,6 +15,8 @@
 • Passionate about Full-Stack Development, Web & Mobile
 </p>
 
+</table>
+
 <h3>Connect with me</h3>
 <p>
 • LinkedIn: <a href="https://www.linkedin.com/in/seu-link-aqui/">seu-link-aqui</a><br>
@@ -23,7 +25,7 @@
 
 </td>
 </tr>
-</table>
+
 
 ## Languages & Tools  
 <p>
