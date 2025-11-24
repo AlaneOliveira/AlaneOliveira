@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="top">
+<td valign="top" align="top">
   <img src="https://github.com/user-attachments/assets/db541d48-8cb9-4a7f-865e-9b82a116db51" width="150" height="200" alt="Shinobu" />
 </td>
 <td valign="top">
@@ -24,6 +24,7 @@
 </td>
 </tr>
 </table>
+
 
 ## Languages & Tools  
 <p>
