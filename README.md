@@ -14,8 +14,6 @@
   Full-Stack Developer in progress  
 </p>
 
----
-
 ## 👩‍💻 About Me  
 - 🎓 Student of **Analysis and Systems Development – 4th Period**  
 - 💜 Passionate about **Full-Stack Development**, Web & Mobile  
