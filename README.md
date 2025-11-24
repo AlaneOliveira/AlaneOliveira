@@ -32,8 +32,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,cpp,git,github,figma&theme=light" />
 </p>
 
----
-
 ## What I'm Focusing On  
 - Advancing in mobile development (React Native)  
 - Creating clean and intuitive UIs  
