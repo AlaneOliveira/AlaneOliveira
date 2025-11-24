@@ -1,51 +1,77 @@
-![Banner](https://i.ibb.co/7y0j4mB/banne-purple-butterfly.png)
+<div style="display: flex; align-items: center; gap: 20px;">
 
-![Shinobu](https://media.giphy.com/media/l3vRnkr0IMAwX2lKS/giphy.gif)
-![Butterfly Pixel](https://media1.tenor.com/m/I80F0frtreAAAAAd/pixel-kesho-pixel.gif)
-![Purple Butterfly](https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif)
+  <div>
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAk8AAAGdCAYAAAAL2ZfXAAAAAX..." width="200">
+  </div>
 
-# 🦋✨ Maria Alane ✨🦋
-**Full-Stack Developer in progress**  
-Estudante de Análise e Desenvolvimento de Sistemas – 4º Período  
-Estética inspirada em **Shinobu Kocho** 💜🦋
+  <div>
+    <h1>🦋 Maria Alane</h1>
+    <p>Full-Stack Developer in progress</p>
 
-## 🌐 Contato
-- LinkedIn: seu-link-aqui  
-- GitHub: seu-username  
-- Instagram: seu-@  
-- Email: **maria.alane404dev@gmail.com**
+    <p>
+      • Student of Analysis and Systems Development – 4th Period<br>
+      • Passionate about Full-Stack Development, Web & Mobile<br>
+    </p>
+
+    <h3>🌐 Connect with me</h3>
+    <p>
+      • LinkedIn: seu-link-aqui<br>
+      • GitHub: seu-username<br>
+      • Instagram: seu-@<br>
+      • Email: <strong>maria.alane404dev@gmail.com</strong>
+    </p>
+
+    <p>
+      <img src="https://media.giphy.com/media/l3vRnkr0IMAwX2lKS/giphy.gif" width="60">
+      <img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif" width="60">
+      <img src="https://media1.tenor.com/m/I80F0frtreAAAAAd/pixel-kesho-pixel.gif" width="60">
+    </p>
+  </div>
+
+</div>
 
 ---
 
 ## 🔧 Languages & Tools  
-![Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,cpp,git,github,figma&theme=light)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,cpp,git,github,figma&theme=light" />
+</p>
 
 ---
 
 ## 🚀 What I'm Focusing On  
-- Avançando em **mobile development (React Native)**  
-- Criando **UIs limpas e intuitivas**  
-- Evoluindo como **futura full-stack developer**
+- Advancing in **mobile development (React Native)**  
+- Creating clean and intuitive UIs  
+- Growing as a **future full-stack developer**
 
 ---
 
 ## 📁 Featured Projects  
 
-### 🌸 **Projeto 1 — Nome do Projeto**  
-Breve descrição clara do que o projeto faz, quais tecnologias foram usadas e qual parte você desenvolveu.  
-
-### 🦋 **Projeto 2 — Nome do Projeto**  
-Explique a ideia principal, funcionalidades-chave e o que você aprendeu ao criar este projeto.  
-
-### 💜 **Projeto 3 — Nome do Projeto**  
-Descreva o objetivo, os desafios enfrentados e o impacto do projeto no seu aprendizado.
+<table>
+  <tr>
+    <td>
+      🌸 <strong>Project 1</strong><br>
+      Description of your project here.<br>
+      <a href="#">🔗 Repository</a>
+    </td>
+    <td>
+      🦋 <strong>Project 2</strong><br>
+      Description of your project here.<br>
+      <a href="#">🔗 Repository</a>
+    </td>
+    <td>
+      💜 <strong>Project 3</strong><br>
+      Description of your project here.<br>
+      <a href="#">🔗 Repository</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=maria-alane&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maria-alane&layout=compact&theme=tokyonight)
-
----
-
-![Butterfly End](https://i.pinimg.com/originals/39/0b/5a/390b5ad468bea81e1c3fd5f364447b6e.gif)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maria-alane&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-alane&layout=compact&theme=tokyonight" />
+</p>
