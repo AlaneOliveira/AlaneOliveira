@@ -1,20 +1,35 @@
-![Shinobu](https://i.imgur.com/7yZ8F0r.png)
+<table>
+<tr>
+<td valign="top">
+<img src="https://media.giphy.com/media/l3vRnkr0IMAwX2lKS/giphy.gif" width="150">
+</td>
+<td valign="top">
 
-# 🦋 Maria Alane
-Full-Stack Developer in progress
+<h1>🦋 Maria Alane</h1>
+<p>Full-Stack Developer in progress</p>
 
-• Student of Analysis and Systems Development – 4th Period  
+<p>
+• Student of Analysis and Systems Development – 4th Period<br>
 • Passionate about Full-Stack Development, Web & Mobile
+</p>
 
-## 🌐 Connect with me
-• LinkedIn: [seu-link-aqui](https://www.linkedin.com/in/seu-link-aqui/)  
-• GitHub: [seu-username](https://github.com/seu-username)  
-• Instagram: [seu-@](https://www.instagram.com/seu-@)  
-• Email: **maria.alane404dev@gmail.com**
+<h3>🌐 Connect with me</h3>
+<p>
+• LinkedIn: <a href="https://www.linkedin.com/in/seu-link-aqui/">seu-link-aqui</a><br>
+• GitHub: <a href="https://github.com/seu-username">seu-username</a><br>
+• Instagram: <a href="https://www.instagram.com/seu-@">seu-@</a><br>
+• Email: <strong>maria.alane404dev@gmail.com</strong>
+</p>
 
-![Gif1](https://media.giphy.com/media/l3vRnkr0IMAwX2lKS/giphy.gif) 
-![Gif2](https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif) 
-![Gif3](https://media1.tenor.com/m/I80F0frtreAAAAAd/pixel-kesho-pixel.gif)
+<p>
+<img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif" width="60">
+<img src="https://media1.tenor.com/m/I80F0frtreAAAAAd/pixel-kesho-pixel.gif" width="60">
+</p>
+
+</td>
+</tr>
+</table>
+
 
 
 ## 🔧 Languages & Tools  
