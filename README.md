@@ -1,7 +1,8 @@
 <table>
 <tr>
 <td valign="top">
-  <img src="https://media.giphy.com/media/l3vRnkr0IMAwX2lKS/giphy.gif" width="150">
+  <img src=<img width="1000" height="1300" alt="image" src="https://github.com/user-attachments/assets/db541d48-8cb9-4a7f-865e-9b82a116db51" />
+>
 </td>
 <td valign="top">
 
