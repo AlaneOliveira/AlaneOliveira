@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/origin/36/36e9a34afea9cf6343bd6f0ca6c584bd.gif" width="90" />
+  <img src="https://media.tenor.com/GA8kJ77N8hEAAAAC/purple-butterfly-butterfly.gif" width="90" />
   <img src="https://media1.tenor.com/m/I80F0frtreAAAAAd/pixel-kesho-pixel.gif" width="150" />
-  <img src="https://i.gifer.com/origin/7a/7a3dfa3db661518f6bd972665fb692e3.gif" width="90" />
+  <img src="https://media.tenor.com/Il8OHnqd7SgAAAAC/butterfly-purple.gif" width="90" />
 </p>
 
 <h1 align="center">🦋 ✨ <strong>Maria Alane</strong> ✨ 🦋</h1>
@@ -18,7 +18,6 @@
 - 🎓 Student of **Analysis and Systems Development – 4th Period**  
 - 💜 Passionate about **Full-Stack Development**, Web & Mobile  
 
----
 
 ## 🔧 Languages & Tools  
 <p align="left">
