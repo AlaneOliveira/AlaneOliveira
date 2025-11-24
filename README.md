@@ -29,7 +29,7 @@
 
 ## Languages & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,kotlin,git,github,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,kotlin,git,github,c,c++,java,figma&theme=light" />
 </p>
 
 ## What I'm Focusing On  
