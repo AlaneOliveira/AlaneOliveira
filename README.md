@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/GA8kJ77N8hEAAAAC/purple-butterfly-butterfly.gif" width="90" />
+  <img src="https://media.giphy.com/media/l3vRnkr0IMAwX2lKS/giphy.gif" width="90" />
   <img src="https://media1.tenor.com/m/I80F0frtreAAAAAd/pixel-kesho-pixel.gif" width="150" />
-  <img src="https://media.tenor.com/Il8OHnqd7SgAAAAC/butterfly-purple.gif" width="90" />
+  <img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif" width="90" />
 </p>
 
 <h1 align="center">🦋 ✨ <strong>Maria Alane</strong> ✨ 🦋</h1>
