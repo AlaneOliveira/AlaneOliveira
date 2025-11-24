@@ -4,37 +4,38 @@
 
 ---
 
-<table style="border: 0; border-spacing: 0; padding: 0;">
-  <tr>
-    <td align="center" width="200" style="padding-right: 20px;">
-      <img src="https://media1.tenor.com/m/I80F0frtreAAAAAd/pixel-kesho-pixel.gif"
-           width="160"
-           style="border-radius: 14px; box-shadow: 0 0 18px #c084fc;" />
-    </td>
+<p align="center">
+  <img src="https://i.gifer.com/origin/36/36e9a34afea9cf6343bd6f0ca6c584bd.gif" width="80" />
+  <img src="https://media1.tenor.com/m/I80F0frtreAAAAAd/pixel-kesho-pixel.gif" width="150" />
+  <img src="https://i.gifer.com/origin/7a/7a3dfa3db661518f6bd972665fb692e3.gif" width="80" />
+</p>
 
-    <td align="left">
-      <h1 align="left" style="color:#c084fc; margin-bottom: 6px;">
-        🦋 ✨ <strong>Maria Alane</strong> ✨ 🦋
-      </h1>
+<h1 align="center">🦋 ✨ <strong>Maria Alane</strong> ✨ 🦋</h1>
 
-      <p style="font-size:16px; color:#d8b4fe;">
-        💜 Full-Stack Developer in progress <br>
-        💫 Inspired by <strong>Shinobu Kocho</strong>’s grace & calm precision  
-      </p>
+<p align="center">
+  💜 Full-Stack Developer in progress <br>
+  💫 Inspired by <strong>Shinobu Kocho</strong>’s grace & calm precision  
+</p>
 
-      <p style="font-size:15px; color:#c084fc; margin-top: -10px;">
-        🦋 🦋 🦋 Soft • Clean • Purple • Butterfly Vibes 🦋 🦋 🦋
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  🦋 Soft • Clean • Purple • Butterfly Vibes 🦋
+</p>
+
+---
+
+## 🦋 Borboletas Roxas Animadas
+<p align="center">
+  <img src="https://i.gifer.com/origin/36/36e9a34afea9cf6343bd6f0ca6c584bd.gif" width="120" />
+  <img src="https://i.gifer.com/origin/3f/3ffc7d95ca9d5290fc667ab00236f861.gif" width="120" />
+  <img src="https://i.gifer.com/origin/7a/7a3dfa3db661518f6bd972665fb692e3.gif" width="120" />
+</p>
 
 ---
 
 ## 👩‍💻 About Me  
 - 🎓 Student of **Analysis and Systems Development – 4th Period**  
 - 💜 Passionate about **Full-Stack Development**, Web & Mobile  
-- 🌸 Aesthetic inspired by **Shinobu Kocho** (soft, clean & purple vibes)
+- 🌸 Aesthetic inspired by **Shinobu Kocho**
 
 ---
 
@@ -48,19 +49,16 @@
 ## 🚀 What I'm Focusing On  
 - Advancing in **mobile development (React Native)**  
 - Creating clean, intuitive and aesthetic UIs  
-- Improving teamwork, communication and adaptability  
-- Growing as a future **full-stack developer**
+- Improving teamwork and adaptability  
+- Growing as a **future full-stack developer**
 
 ---
 
 ## 📊 GitHub Stats  
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=maria-alane&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-alane&layout=compact&theme=tokyonight" />
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maria-alane&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-alane&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
