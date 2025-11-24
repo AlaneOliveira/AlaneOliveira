@@ -5,12 +5,13 @@
     </td>
 
     <td>
-      <h1 align="left">🦋 Hello! I'm <strong>Maria Alane</strong> 🦋</h1>
-      <p align="left">
-        💜 Full-Stack Developer in progress <br>
-        Inspired by <strong>Shinobu Kocho</strong>’s calm & sharp style  
-      </p>
-    </td>
+  <h1 align="left">🦋 Hello! I'm <strong>Maria Alane</strong> 🦋</h1>
+  <p align="left">
+    💜 Full-Stack Developer in progress <br>
+    Inspired by <strong>Shinobu Kocho</strong>’s calm & sharp style  
+  </p>
+</td>
+
   </tr>
 </table>
 
