@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td valign="top">
-<img src="https://media.giphy.com/media/l3vRnkr0IMAwX2lKS/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/l3vRnkr0IMAwX2lKS/giphy.gif" width="150">
 </td>
 <td valign="top">
 
@@ -21,12 +21,11 @@
 • Email: <strong>maria.alane404dev@gmail.com</strong>
 </p>
 
-
 </td>
 </tr>
 </table>
 
-
+---
 
 ## 🔧 Languages & Tools  
 <p>
