@@ -61,8 +61,6 @@
   </tr>
 </table>
 
----
-
 ## GitHub Stats  
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=maria-alane&show_icons=true&theme=tokyonight" />
