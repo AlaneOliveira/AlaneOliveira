@@ -17,15 +17,8 @@
 
 </table>
 
-<h3>Connect with me</h3>
-<p>
-• LinkedIn: <a href="https://www.linkedin.com/in/seu-link-aqui/">seu-link-aqui</a><br>
-• Email: <strong>maria.alane404dev@gmail.com</strong>
-</p>
-
 </td>
 </tr>
-
 
 ## Languages & Tools  
 <p>
