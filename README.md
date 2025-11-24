@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td valign="top" align="top">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150" alt="Shinobu GIF" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" alt="Shinobu GIF" />
 </td>
 <td valign="top">
 
