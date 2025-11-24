@@ -44,7 +44,7 @@
 <table>
   <tr>
     <td>
-      UniMove<br>
+      <h4>UniMove</h4>h4><br>
       Aplicativo mobile de carona universitária.<br>
       <a href="https://github.com/AlaneOliveira/UniMove.git">Repository</a>
     </td>
