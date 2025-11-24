@@ -23,8 +23,6 @@
 </tr>
 </table>
 
----
-
 ## Languages & Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,cpp,git,github,figma&theme=light" />
