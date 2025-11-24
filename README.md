@@ -1,4 +1,4 @@
-<table> <tr> <td align="left" width="150"> <img src="https://media1.tenor.com/m/I80F0frtreAAAAAd/pixel-kesho-pixel.gif" width="150" /> </td> <td align="left"> <h1>🦋 Hello! I'm <strong>Maria Alane</strong> 🦋</h1> <p> 💜 Full-Stack Developer in progress <br> Inspired by <strong>Shinobu Kocho</strong>’s calm & sharp style </p> </td> </tr> </table>
+<table> <tr> <td align="left" width="150"> <img src="https://media1.tenor.com/m/I80F0frtreAAAAAd/pixel-kesho-pixel.gif" width="150" /> </td> <td align="left"> <h1>🦋 Hello! I'm <strong>Maria Alane</strong> 🦋</h1> <p> 💜 Full-Stack Developer in progress </strong>’s calm & sharp style </p> </td> </tr> </table>
 
 
 ---
