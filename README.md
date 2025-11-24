@@ -50,7 +50,7 @@
     </td>
     <td>
       sistema-clinica<br>
-      Um sistema de clinica onde você pode visualizar os pacientes dos médicos.<br>
+      Criar uma plataforma onde estudantes universitários possam oferecer ou solicitar caronas de forma segura, prática e econômica, dentro ou entre campi universitários..<br>
       <a href="https://github.com/AlaneOliveira/sistema-clinica.git">Repository</a>
     </td>
     <td>
