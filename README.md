@@ -5,29 +5,15 @@
 ---
 
 <p align="center">
-  <img src="https://i.gifer.com/origin/36/36e9a34afea9cf6343bd6f0ca6c584bd.gif" width="80" />
+  <img src="https://i.gifer.com/origin/36/36e9a34afea9cf6343bd6f0ca6c584bd.gif" width="90" />
   <img src="https://media1.tenor.com/m/I80F0frtreAAAAAd/pixel-kesho-pixel.gif" width="150" />
-  <img src="https://i.gifer.com/origin/7a/7a3dfa3db661518f6bd972665fb692e3.gif" width="80" />
+  <img src="https://i.gifer.com/origin/7a/7a3dfa3db661518f6bd972665fb692e3.gif" width="90" />
 </p>
 
 <h1 align="center">🦋 ✨ <strong>Maria Alane</strong> ✨ 🦋</h1>
 
 <p align="center">
-  💜 Full-Stack Developer in progress <br>
-  💫 Inspired by <strong>Shinobu Kocho</strong>’s grace & calm precision  
-</p>
-
-<p align="center">
-  🦋 Soft • Clean • Purple • Butterfly Vibes 🦋
-</p>
-
----
-
-## 🦋 Borboletas Roxas Animadas
-<p align="center">
-  <img src="https://i.gifer.com/origin/36/36e9a34afea9cf6343bd6f0ca6c584bd.gif" width="120" />
-  <img src="https://i.gifer.com/origin/3f/3ffc7d95ca9d5290fc667ab00236f861.gif" width="120" />
-  <img src="https://i.gifer.com/origin/7a/7a3dfa3db661518f6bd972665fb692e3.gif" width="120" />
+  Full-Stack Developer in progress  
 </p>
 
 ---
@@ -35,7 +21,6 @@
 ## 👩‍💻 About Me  
 - 🎓 Student of **Analysis and Systems Development – 4th Period**  
 - 💜 Passionate about **Full-Stack Development**, Web & Mobile  
-- 🌸 Aesthetic inspired by **Shinobu Kocho**
 
 ---
 
@@ -48,8 +33,7 @@
 
 ## 🚀 What I'm Focusing On  
 - Advancing in **mobile development (React Native)**  
-- Creating clean, intuitive and aesthetic UIs  
-- Improving teamwork and adaptability  
+- Creating clean and intuitive UIs  
 - Growing as a **future full-stack developer**
 
 ---
