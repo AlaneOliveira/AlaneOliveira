@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td valign="top" align="top">
-  <img src="https://www.deviantart.com/zenxpai/art/Shinobu-Kocho-Chibi-Pixel-Art-817487071" width="100%" alt="Shinobu GIF" />
+ ![Shinobu](https://raw.githubusercontent.com/AlaneOliveira/AlaneOliveira/main/shinobuimagem.gif)
 </td>
 <td valign="top">
 
