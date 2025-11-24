@@ -1,7 +1,8 @@
 <table>
 <tr>
 <td valign="top" align="top">
-  <img src="https://tenor.com/view/pixel-kesho-pixel-shinobu-kesho-gif-18454915" width="150" alt="Shinobu Pixel Art"/>
+  <img src=alt="image" src="https://github.com/user-attachments/assets/f2a3b4ba-d68b-4c7d-bdc7-5ec9a7d87e03" />
+/>
 </td>
 <td valign="top">
 
