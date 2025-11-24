@@ -13,11 +13,11 @@
 
 ## 🌸 About Me
 
-🎓 Student of **Systems Analysis and Development**  
-💜 Passionate about **Web & Mobile Development**  
-🎨 Interface lover — clean, suave e elegante  
-📱 Learning **React Native**, REST APIs & design patterns  
-🦋 Objetivo: construir aplicações fluidas, modernas e impactantes  
+🎓 **Aluna de Análise e Desenvolvimento de Sistemas – 4º período**  
+💜 Apaixonada por **Desenvolvimento Web e Mobile**  
+🎨 Aficionada por interfaces suaves, limpas e elegantes  
+📱 Aprendendo **React Native**, REST APIs & boas práticas de arquitetura  
+🦋 Busco construir aplicações fluidas, modernas e impactantes  
 
 ---
 
@@ -41,7 +41,7 @@
 ## 📁 Featured Projects
 
 ### 🦋 **Shinobu UI – Web Design Inspired Project**
-Interface lilás suave, inspirada em paletas de borboletas.  
+Interface lilás suave inspirada em paletas de borboletas.  
 🔗 *Link do repositório*
 
 ---
