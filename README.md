@@ -21,10 +21,6 @@
 • Email: <strong>maria.alane404dev@gmail.com</strong>
 </p>
 
-<p>
-<img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif" width="60">
-<img src="https://media1.tenor.com/m/I80F0frtreAAAAAd/pixel-kesho-pixel.gif" width="60">
-</p>
 
 </td>
 </tr>
