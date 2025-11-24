@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td valign="top" align="top">
-  <img src="https://github.com/user-attachments/assets/f2a3b4ba-d68b-4c7d-bdc7-5ec9a7d87e03" alt="Shinobu Pixel Art" width="150" />
+<img src="https://github.com/maria-alane/your-repo-name/raw/main/546fa936-986a-45b6-be48-7af6720dfa15.png" width="150" alt="Shinobu Pixel Art" />" 
 </td>
 <td valign="top">
 
