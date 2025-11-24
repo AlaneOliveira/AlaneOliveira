@@ -1,7 +1,9 @@
-<p float="left">
-  <img src="https://i.pinimg.com/originals/aa/ff/11/aaff115c4b8f8c1f8e7f5b4e4fdd5f38.png" width="150" />
-  <img src="https://media.giphy.com/media/l3vRnkr0IMAwX2lKS/giphy.gif" width="60" />
-</p>
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/7yZ8F0r.png" width="150">
+</td>
+<td>
 
 <h1>🦋 Maria Alane</h1>
 <p>Full-Stack Developer in progress</p>
@@ -19,6 +21,15 @@
 • Email: <strong>maria.alane404dev@gmail.com</strong>
 </p>
 
+<p>
+<img src="https://media.giphy.com/media/l3vRnkr0IMAwX2lKS/giphy.gif" width="60">
+<img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif" width="60">
+<img src="https://media1.tenor.com/m/I80F0frtreAAAAAd/pixel-kesho-pixel.gif" width="60">
+</p>
+
+</td>
+</tr>
+</table>
 
 
 ## 🔧 Languages & Tools  
