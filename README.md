@@ -45,12 +45,12 @@
   <tr>
     <td>
       UniMove<br>
-      Criar uma plataforma onde estudantes universitários possam oferecer ou solicitar caronas de forma segura, prática e econômica, dentro ou entre campi universitários.<br>
+      Aplicativo mobile de carona universitária.<br>
       <a href="https://github.com/AlaneOliveira/UniMove.git">Repository</a>
     </td>
     <td>
       sistema-clinica<br>
-      Criar uma plataforma onde estudantes universitários possam oferecer ou solicitar caronas de forma segura, prática e econômica, dentro ou entre campi universitários..<br>
+      Página web de um sistema de clínica.<br>
       <a href="https://github.com/AlaneOliveira/sistema-clinica.git">Repository</a>
     </td>
     <td>
