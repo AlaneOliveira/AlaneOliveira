@@ -35,3 +35,9 @@ Desenvolver projetos reais que evoluam minhas habilidades
 
 📊 GitHub Stats
 <div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=AlaneOliveira&show_icons=true&theme=tokyonight&count_private=true"/> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaneOliveira&layout=compact&theme=tokyonight"/> </div>
+
+## 🐍 Minhas contribuições
+<div align="center">
+  <img src="https://github.com/AlaneOliveira/AlaneOliveira/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
