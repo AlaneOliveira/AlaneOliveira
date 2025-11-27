@@ -20,18 +20,24 @@ jobs:
       - uses: actions/checkout@v3
 
       # 2️⃣ Gera a cobrinha
-      - uses: Platane/snk@v3
+            - uses: Platane/snk@v3
         id: snake
         with:
           github_user_name: AlaneOliveira
           outputs: |
             dist/github-contribution-grid-snake.svg
-          background: "#000000"     # fundo geral
-          snake: "#A259FF"          # cor da cobrinha
-          cell_color: "#A259FF"     # contribuições (os quadrados coloridos)
-          empty_color: "#2a2a2a"    # quadrados vazios em CINZA ESCURO
+          background: "#000000"
+          snake: "#A259FF"
           cell_size: 12
           cell_padding: 4
+
+          # 🎨 Paleta manual (FORÇA a alterar a cor dos quadrados vazios)
+          palette: |
+            - "#2a2a2a"   # ← quadrados vazios
+            - "#A259FF"   # ← contribuições fracas
+            - "#A259FF"   # ← contribuições médias
+            - "#A259FF"   # ← contribuições fortes
+            - "#A259FF"   # ← contribuições muito fortes
 
       # 3️⃣ Publica no branch output
       - name: Push Snake Animation
