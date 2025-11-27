@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"  # roda a cada 12h
   workflow_dispatch:
   push:
     branches:
@@ -16,21 +16,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ Pega o código do repositório
       - uses: actions/checkout@v3
 
+      # 2️⃣ Gera a cobrinha
       - uses: Platane/snk@v3
         id: snake
         with:
           github_user_name: AlaneOliveira
           outputs: |
             dist/github-contribution-grid-snake.svg
-          background: "#000000"  # fundo geral do grid
-          snake: "#A259FF"       # cor da cobrinha
-          empty: "#000000"       # cor dos quadrados sem contribuição
-          stroke: "#FFFFFF"      # borda da cobrinha (opcional)
+          background: "#000000"    # fundo geral do grid
+          snake: "#A259FF"         # cor da cobrinha
+          empty_color: "#000000"   # cor dos quadrados sem contribuição
+          stroke: "#FFFFFF"        # borda da cobrinha
           cell_size: 12
           cell_padding: 4
 
+      # 3️⃣ Publica no branch output
       - name: Push Snake Animation
         uses: crazy-max/ghaction-github-pages@v3
         with:
