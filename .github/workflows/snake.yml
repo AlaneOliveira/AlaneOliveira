@@ -1,5 +1,8 @@
 name: Generate Snake
 
+permissions:
+  contents: write  # garante que o token possa escrever no branch output
+
 on:
   schedule:
     - cron: "0 */12 * * *"
