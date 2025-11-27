@@ -1,12 +1,22 @@
-🌌 Maria Alane — Full-Stack Developer in Progress
-<div align="center"> <img src="https://raw.githubusercontent.com/AlaneOliveira/AlaneOliveira/main/shinobuimagem.gif" width="180" style="border-radius:12px; border:2px solid #A259FF"/> </div>
-💻 Sobre mim
-<p style="color:#D3BFFF"> Estudante de **Análise e Desenvolvimento de Sistemas – 4º período** Apaixonada por **desenvolvimento Full-Stack, Web & Mobile** Criando interfaces **limpas, modernas e intuitivas** Sempre aprendendo e evoluindo como futura dev 🌱 </p>
-🛠 Tecnologias & Ferramentas
-<div align="center" style="background-color:#1E1E2F; padding:15px; border-radius:12px;"> <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,kotlin,git,github,c,cpp,java,figma&theme=light" /> </div>
-🚀 Projetos em Destaque
-<div style="display:flex; justify-content:space-around; flex-wrap:wrap; gap:20px; margin-top:15px;"> <div style="background-color:#2A2A3C; padding:15px; border-radius:12px; width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.4)"> <h4 style="color:#A259FF">🚗 UniMove</h4> <p style="color:#D3BFFF">Aplicativo mobile de caronas universitárias.</p> <a href="https://github.com/AlaneOliveira/UniMove.git" style="color:#FFFFFF; text-decoration:none">🔗 Repositório</a> </div> <div style="background-color:#2A2A3C; padding:15px; border-radius:12px; width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.4)"> <h4 style="color:#A259FF">🏥 Sistema de Clínica</h4> <p style="color:#D3BFFF">Página web de gestão de clínica.</p> <a href="https://github.com/AlaneOliveira/sistema-clinica.git" style="color:#FFFFFF; text-decoration:none">🔗 Repositório</a> </div> <div style="background-color:#2A2A3C; padding:15px; border-radius:12px; width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.4)"> <h4 style="color:#A259FF">📁 Project 3</h4> <p style="color:#D3BFFF">Em desenvolvimento.</p> <a href="#" style="color:#FFFFFF; text-decoration:none">🔗 Repositório</a> </div> </div>
-📊 GitHub Stats
-<div align="center" style="margin-top:15px;"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=AlaneOliveira&show_icons=true&theme=tokyonight&count_private=true"/> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaneOliveira&layout=compact&theme=tokyonight"/> </div>
-🐍 Minhas contribuições (Snake)
-<div align="center" style="margin-top:15px;"> <img src="https://github.com/AlaneOliveira/AlaneOliveira/blob/output/github-contribution-grid-snake.svg" /> </div>
+<div align="center" style="background: linear-gradient(135deg, #1B0E3A, #4B0082); padding:40px; border-radius:20px;">
+  <img src="https://raw.githubusercontent.com/AlaneOliveira/AlaneOliveira/main/shinobuimagem.gif" width="200" style="border:3px solid #A259FF; border-radius:15px;"/>
+  <h1 style="color:#E0C3FF; font-family:'Verdana'; margin-top:15px;">Maria Alane</h1>
+  <p style="color:#D3BFFF; font-size:18px;">Full-Stack Developer in progress | Análise e Desenvolvimento de Sistemas - 4º período</p>
+</div>
+
+<div style="display:flex; justify-content:space-around; flex-wrap:wrap; margin-top:30px;">
+  <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:15px; width:250px; box-shadow:0 0 15px #A259FF;">
+    <h3 style="color:#A259FF;">🚗 UniMove</h3>
+    <p style="color:#D3BFFF;">App mobile de caronas universitárias.</p>
+    <a href="https://github.com/AlaneOliveira/UniMove.git" style="color:#E0C3FF;">🔗 Repositório</a>
+  </div>
+  <div style="background:rgba(255,255,255,0.05); padding:20px; border-radius:15px; width:250px; box-shadow:0 0 15px #A259FF;">
+    <h3 style="color:#A259FF;">🏥 Sistema de Clínica</h3>
+    <p style="color:#D3BFFF;">Página web de gestão de clínica.</p>
+    <a href="https://github.com/AlaneOliveira/sistema-clinica.git" style="color:#E0C3FF;">🔗 Repositório</a>
+  </div>
+</div>
+
+<div align="center" style="margin-top:40px;">
+  <img src="https://github.com/AlaneOliveira/AlaneOliveira/blob/output/github-contribution-grid-snake.svg" style="border:2px solid #A259FF; border-radius:10px;"/>
+</div>
