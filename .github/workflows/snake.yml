@@ -24,6 +24,11 @@ jobs:
           github_user_name: AlaneOliveira
           outputs: |
             dist/github-contribution-grid-snake.svg
+          background: "#000000"  # fundo preto
+          snake: "#A259FF"       # cor da cobrinha lilás
+          stroke: "#FFFFFF"      # borda da cobrinha opcional
+          cell_size: 12          # tamanho do quadrado
+          cell_padding: 4        # espaçamento entre quadrados
 
       - name: Push Snake Animation
         uses: crazy-max/ghaction-github-pages@v3
