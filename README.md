@@ -2,6 +2,7 @@
 ## 🐍 Minhas contribuições (Snake)
 
 <div align="center">
-  <img src="https://github.com/AlaneOliveira/AlaneOliveira/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" style="max-width:100%; border-radius:10px;"/>
+  <img src="https://raw.githubusercontent.com/AlaneOliveira/AlaneOliveira/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" style="max-width:100%; border-radius:10px;" />
+
 </div>
 
