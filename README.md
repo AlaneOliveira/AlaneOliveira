@@ -1,43 +1,12 @@
-🌸 Maria Alane — Full-Stack Developer in Progress
-<div align="center"> <img src="https://raw.githubusercontent.com/AlaneOliveira/AlaneOliveira/main/shinobuimagem.gif" width="200" /> </div>
-💫 Sobre mim
-
-✨ Estudante de Análise e Desenvolvimento de Sistemas – 4º período
-✨ Explorando o mundo do desenvolvimento Full-Stack, Web & Mobile
-✨ Criando interfaces bonitas, limpas e intuitivas
-✨ Evoluindo como futura desenvolvedora
-
-🛠️ Tecnologias
-<div align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,kotlin,git,github,c,cpp,java,figma&theme=light" /> </div>
-🚀 Focando em
-
-Aprimorar habilidades Full-Stack
-
-Criar UIs funcionais e intuitivas
-
-Desenvolver projetos reais que evoluam minhas habilidades
-
-⭐ Projetos em Destaque
-🚗 UniMove — Mobile Carpool App
-
-📱 Aplicativo de caronas para universitários
-🔗 Repositório: https://github.com/AlaneOliveira/UniMove.git
-
-🏥 Sistema de Clínica
-
-🌐 Página web de gerenciamento de clínica
-🔗 Repositório: https://github.com/AlaneOliveira/sistema-clinica.git
-
-📁 Project 3
-
-🔧 Em desenvolvimento
-🔗 Repositório em breve…
-
+🌌 Maria Alane — Full-Stack Developer in Progress
+<div align="center"> <img src="https://raw.githubusercontent.com/AlaneOliveira/AlaneOliveira/main/shinobuimagem.gif" width="180" style="border-radius:12px; border:2px solid #A259FF"/> </div>
+💻 Sobre mim
+<p style="color:#D3BFFF"> Estudante de **Análise e Desenvolvimento de Sistemas – 4º período** Apaixonada por **desenvolvimento Full-Stack, Web & Mobile** Criando interfaces **limpas, modernas e intuitivas** Sempre aprendendo e evoluindo como futura dev 🌱 </p>
+🛠 Tecnologias & Ferramentas
+<div align="center" style="background-color:#1E1E2F; padding:15px; border-radius:12px;"> <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,kotlin,git,github,c,cpp,java,figma&theme=light" /> </div>
+🚀 Projetos em Destaque
+<div style="display:flex; justify-content:space-around; flex-wrap:wrap; gap:20px; margin-top:15px;"> <div style="background-color:#2A2A3C; padding:15px; border-radius:12px; width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.4)"> <h4 style="color:#A259FF">🚗 UniMove</h4> <p style="color:#D3BFFF">Aplicativo mobile de caronas universitárias.</p> <a href="https://github.com/AlaneOliveira/UniMove.git" style="color:#FFFFFF; text-decoration:none">🔗 Repositório</a> </div> <div style="background-color:#2A2A3C; padding:15px; border-radius:12px; width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.4)"> <h4 style="color:#A259FF">🏥 Sistema de Clínica</h4> <p style="color:#D3BFFF">Página web de gestão de clínica.</p> <a href="https://github.com/AlaneOliveira/sistema-clinica.git" style="color:#FFFFFF; text-decoration:none">🔗 Repositório</a> </div> <div style="background-color:#2A2A3C; padding:15px; border-radius:12px; width:250px; box-shadow:0 4px 12px rgba(0,0,0,0.4)"> <h4 style="color:#A259FF">📁 Project 3</h4> <p style="color:#D3BFFF">Em desenvolvimento.</p> <a href="#" style="color:#FFFFFF; text-decoration:none">🔗 Repositório</a> </div> </div>
 📊 GitHub Stats
-<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=AlaneOliveira&show_icons=true&theme=tokyonight&count_private=true"/> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaneOliveira&layout=compact&theme=tokyonight"/> </div>
-
-## 🐍 Minhas contribuições
-<div align="center">
-  <img src="https://github.com/AlaneOliveira/AlaneOliveira/blob/output/github-contribution-grid-snake.svg" />
-</div>
-
+<div align="center" style="margin-top:15px;"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=AlaneOliveira&show_icons=true&theme=tokyonight&count_private=true"/> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaneOliveira&layout=compact&theme=tokyonight"/> </div>
+🐍 Minhas contribuições (Snake)
+<div align="center" style="margin-top:15px;"> <img src="https://github.com/AlaneOliveira/AlaneOliveira/blob/output/github-contribution-grid-snake.svg" /> </div>
