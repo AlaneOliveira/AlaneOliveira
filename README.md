@@ -5,7 +5,7 @@
 ## 🚀 Tecnologias que utilizo
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,react,nodejs,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,python,java,c,cpp,nodejs,git,github" />
 </p>
 
 ## 📊 Minhas Estatísticas
@@ -22,14 +22,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AlaneOliveira&show_icons=true&theme=tokyonight&cache_seconds=2000" />
 </p>
 
-## 🌐 Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/AlaneOliveira" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/byoliveirac" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p>
 
