@@ -1,50 +1,45 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00A3FF&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Maria Alane!;Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00A3FF&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+a+Alane+Oliveira!;Bem-vindo+ao+meu+GitHub!;💻+Desenvolvedora+em+Evolução;🚀+Apaixonada+por+Tecnologia" />
 </p>
 
-## 🚀 Tecnologias que eu uso
+## 🚀 Tecnologias que utilizo
 
-### 💻 Linguagens & Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,go,rust,c,cpp" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,c,cpp,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,react,nodejs,git,github" />
 </p>
 
-## 📊 Estatísticas do GitHub
+## 📊 Minhas Estatísticas
 
-### ⚡ Linguagens mais usadas
+### 🔥 Linguagens mais usadas
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaneOliveira&layout=compact&theme=tokyonight&cache_seconds=2000" />
 </p>
 
-### 🔥 Stats completões
+### ⚡ Estatísticas gerais
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlaneOliveira&show_icons=true&theme=tokyonight&cache_seconds=2000" />
 </p>
 
 ## 📈 Gráficos detalhados
 
-> Gerados automaticamente pelo *GitHub Profile Summary Cards*
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USERNAME&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU_USERNAME&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SEU_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlaneOliveira&theme=tokyonight" />
 </p>
 
-## 🌐 Social / Contato
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlaneOliveira&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlaneOliveira&theme=tokyonight" />
+</p>
+
+## 🌐 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/AlaneOliveira" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/SEU_USERNAME" target="_blank">
+  <a href="https://www.instagram.com/AlaneOliveira" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
