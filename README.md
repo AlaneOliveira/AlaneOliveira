@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00A3FF&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+a+Alane+Oliveira!;Bem-vindo+ao+meu+GitHub!;💻+Desenvolvedora+em+Evolução;🚀+Apaixonada+por+Tecnologia" />
 </p>
 
-## 🚀 Tecnologias que utilizo
+## 🚀 Tecnologias que conheço
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,python,java,c,cpp,nodejs,git,github" />
