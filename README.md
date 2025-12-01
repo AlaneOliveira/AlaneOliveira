@@ -4,7 +4,10 @@
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,python,java,c,cpp,nodejs,git,github" /> </p>
 
-📊 My Statistics
+<p align="center"> 
+  
+  ## 📊 My Statistics
+  </p>
 
 ## 🔥 Most Used Languages
 
