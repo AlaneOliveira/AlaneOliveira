@@ -22,24 +22,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AlaneOliveira&show_icons=true&theme=tokyonight&cache_seconds=2000" />
 </p>
 
-## 📈 Gráficos detalhados
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlaneOliveira&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlaneOliveira&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlaneOliveira&theme=tokyonight" />
-</p>
-
 ## 🌐 Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/AlaneOliveira" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/AlaneOliveira" target="_blank">
+  <a href="https://www.instagram.com/byoliveirac" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
