@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00A3FF&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+SEU_USERNAME!;Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00A3FF&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Maria Alane!;Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia+🚀" />
 </p>
 
 ## 🚀 Tecnologias que eu uso
@@ -9,7 +9,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,go,rust,c,cpp" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,react,nextjs,vue,laravel,django,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,c,cpp,git,github" />
 </p>
 
 ## 📊 Estatísticas do GitHub
