@@ -14,10 +14,7 @@
   
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaneOliveira&layout=compact&theme=tokyonight&cache_seconds=2000" />
-</p>
+![Top Langs](https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=AlaneOliveira&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlaneOliveira&show_icons=true&theme=tokyonight&cache_seconds=2000" />
-</p>
+![Stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=AlaneOliveira&show_icons=true&theme=tokyonight)
+
