@@ -14,13 +14,9 @@
   
 </p>
 
-### 🔥 Most Used Languages
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaneOliveira&layout=compact&theme=tokyonight&cache_seconds=2000" />
 </p>
-
-### ⚡ GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlaneOliveira&show_icons=true&theme=tokyonight&cache_seconds=2000" />
