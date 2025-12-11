@@ -14,11 +14,9 @@
   
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=AlaneOliveira&layout=compact&theme=tokyonight" />
-</p>
+<!-- Gráfico de linguagens -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaneOliveira&layout=compact&theme=tokyonight)](https://github.com/AlaneOliveira/github-readme-stats)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterorg.vercel.app/api?username=AlaneOliveira&show_icons=true&theme=tokyonight" />
-</p>
+<!-- Estatísticas gerais -->
+[![Alane's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlaneOliveira&show_icons=true&theme=tokyonight)](https://github.com/AlaneOliveira/github-readme-stats)
 
