@@ -1,13 +1,8 @@
-<!-- ===== Banner com Shinobu e Texto Animado ===== -->
+<!-- ===== Banner sem Shinobu e Texto Animado ===== -->
 <table align="center">
   <tr>
     <td align="center" width="150">
-      <img 
-        src="https://media.tenor.com/YY0fY7Yy5cMAAAAC/shinobu-kocho.gif" 
-        width="140" 
-        alt="Shinobu Kocho Anime GIF"
-        style="border-radius:15px; box-shadow:0px 4px 15px rgba(0,0,0,0.3);"
-      />
+      <!-- Removido o GIF -->
     </td>
     <td align="center">
       <img 
