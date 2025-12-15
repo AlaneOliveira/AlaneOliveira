@@ -1,16 +1,6 @@
-<!-- ===== Banner sem Shinobu e Texto Animado ===== -->
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <!-- Removido o GIF -->
-    </td>
-    <td align="center">
-      <img 
+ <img 
         src="https://readme-typing-svg.herokuapp.com?size=30&color=00A3FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Alane+Oliveira!;Welcome+to+my+GitHub!;💻+Developer+in+Progress;🚀+Passionate+about+Technology"
       />
-    </td>
-  </tr>
-</table>
 
 <!-- ===== Languages and Tools ===== -->
 <h2 align="center">🚀 Languages and Tools</h2>
