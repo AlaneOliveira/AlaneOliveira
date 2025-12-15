@@ -16,7 +16,7 @@
 </table>
 
 
-## 🚀 Languages and Tools
+🚀 Languages and Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,python,java,c,cpp,nodejs,git,github" />
@@ -24,7 +24,7 @@
 
 <p align="center">
   
-  ## 📊 My Statistics
+📊 My Statistics
   
 </p>
 
