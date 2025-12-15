@@ -1,6 +1,19 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00A3FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Alane+Oliveira!;Welcome+to+my+GitHub!;💻+Developer+in+Progress;🚀+Passionate+about+Technology" />
-</p>
+<table align="center">
+  <tr>
+    <td width="180" align="center">
+      <img 
+        src="https://i.imgur.com/4M7IWwP.gif" 
+        alt="Shinobu pixel art"
+        width="150"
+      />
+    </td>
+    <td align="center">
+      <img 
+        src="https://readme-typing-svg.herokuapp.com?size=30&color=00A3FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Alane+Oliveira!;Welcome+to+my+GitHub!;💻+Developer+in+Progress;🚀+Passionate+about+Technology" 
+      />
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Languages and Tools
 
