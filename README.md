@@ -19,6 +19,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AlaneOliveira&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="250" alt="anime sparkle" />
-</p>
