@@ -1,10 +1,10 @@
 <table align="center">
   <tr>
-    <td width="180" align="center">
+    <td align="center" width="150">
       <img 
-        src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/main/pixel-art-shinobu.gif"
-        width="140"
-        alt="Shinobu Pixel Art"
+        src="https://media.tenor.com/YY0fY7Yy5cMAAAAC/shinobu-kocho.gif" 
+        width="140" 
+        alt="Shinobu Kocho Anime GIF"
       />
     </td>
     <td align="center">
@@ -14,6 +14,7 @@
     </td>
   </tr>
 </table>
+
 
 ## 🚀 Languages and Tools
 
